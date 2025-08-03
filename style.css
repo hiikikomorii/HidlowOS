@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  color: white;
+
+.title {
+  text-align: center;
+  width: 100%;        
+  margin: 0;
+}
+
+}
+h1, h2, h3, h4, h5, {
+  text-align: center;
+  margin: 0.5em 0;
+}
+

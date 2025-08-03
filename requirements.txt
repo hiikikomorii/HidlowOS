@@ -1,0 +1,10 @@
+tqdm
+time
+colorama
+faker
+random
+datetime
+os
+request
+webbrowser
+pathlib
